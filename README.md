@@ -9,7 +9,7 @@ You can view the live demo from my linkedIn profile
 
 Technologies Used
 
- -> HTML
- -> CSS
- -> Javascript
- -> Gsap
+1. HTML
+2. CSS
+3. Javascript
+4. Gsap
